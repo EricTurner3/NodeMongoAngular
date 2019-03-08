@@ -1,0 +1,14 @@
+{
+  "name": "ch05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zlib_buffers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Turner",
+  "license": "ISC",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}

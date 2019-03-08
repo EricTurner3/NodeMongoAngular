@@ -1,0 +1,1 @@
+I had to run 'npm init' to set this as an Node.JS application, then npm install will install all requirements in a folder in this project folder

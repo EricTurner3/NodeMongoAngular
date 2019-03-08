@@ -1,0 +1,14 @@
+{
+  "name": "readwords",
+  "version": "1.0.0",
+  "description": "read words application",
+  "main": "readwords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Turner",
+  "license": "ISC",
+  "dependencies": {
+    "censorify": "file:../censorify/censorify-0.1.1.tgz"
+  }
+}

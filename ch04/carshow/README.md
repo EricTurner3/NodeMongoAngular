@@ -1,0 +1,1 @@
+callback_parameter.js on page 67 of the book. It deals with the EventEmitter having a callback parameter

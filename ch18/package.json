@@ -1,0 +1,16 @@
+{
+  "name": "ch18",
+  "version": "1.0.0",
+  "description": "Chapter 18 - Impementing Express in Node.js ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Turner",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}

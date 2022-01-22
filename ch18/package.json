@@ -9,7 +9,7 @@
   "author": "Eric Turner",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^2.7.4",
     "express": "^4.16.4",
     "pug": "^2.0.3"
   }

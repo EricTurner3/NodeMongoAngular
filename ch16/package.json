@@ -9,7 +9,7 @@
   "author": "Eric Turner",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.13.9"
+    "mongoose": "^5.13.20"
   },
   "devDependencies": {}
 }
